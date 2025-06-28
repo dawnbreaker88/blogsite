@@ -1,0 +1,58 @@
+
+
+
+
+
+
+
+
+base_url = "https://dawnbreaker88.github.io/blogsite/"
+title = "dawnbreaker88"
+theme = "apollo"
+
+taxonomies = [{ name = "tags" }]
+
+
+
+
+
+
+[extra]
+
+theme = "toggle"  
+socials = [
+  { name = "twitter", url = "https://twitter.com/not_matthias", icon = "twitter" },
+  { name = "github", url = "https://github.com/not-matthias/", icon = "github" },
+  { name = "linkedin", url = "https://www.linkedin.com/in/vankaprabhath/", icon = "linkedin" },
+]
+menu = [
+  { name = "/posts", url = "/posts", weight = 1 },
+  { name = "/projects", url = "/projects", weight = 2 },
+  { name = "/about", url = "/about", weight = 3 },
+  { name = "/tags", url = "/tags", weight = 4 },
+]
+# See this for more options: https://github.com/not-matthias/apollo/blob/main/config.toml#L14
+build_search_index = true
+
+
+
+
+compile_sass = true
+
+
+
+
+[markdown]
+
+highlight_code = true
+
+
+
+build_search_index = true
+
+[search]
+include_title = true
+include_description = true
+include_path = true
+include_content = true
+index_format = "elasticlunr_json"

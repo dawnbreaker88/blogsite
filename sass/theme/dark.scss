@@ -1,0 +1,28 @@
+$bg-0: #000000;       // terminal black
+
+$text-0: #ffffff;     // white content/body text
+$text-1: #bbbbbb;     // soft gray for subtext
+
+:root.dark {
+  --text-0: #{$text-0};
+  --text-1: #{$text-1};
+
+  --bg-0: #{$bg-0};
+  --bg-1: lighten($bg-0, 5%);
+  --bg-2: lighten($bg-0, 10%);
+
+
+
+    --primary-color: #00ff00;
+  --border-color: #222222;
+  --hover-color: #000000;
+
+  .social > img {
+    filter: invert(1);
+  }
+
+  // Green headings
+  h1, h2, h3, h4, h5, h6 {
+    color: #00ff00 !important;
+  }
+}
