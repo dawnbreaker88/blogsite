@@ -9,8 +9,6 @@ I write blogs that break down complex technical topics into clear, digestible in
 
 I don’t write to impress. I write to clarify. If you're someone who wants to understand rather than just memorize, you're in the right place.
 
-<h1>Latest articles</h1>
-<li class=list-item><section><div class=post-header><time>15-07-2020</time><div><h1 class=title><a href=https://not-matthias.github.io/posts/kernel-driver-with-rust>Writing a kernel driver with Rust</a></h1><div class=meta><div class=description></div></div></div></div></section></ul></main>
 
 <div style="display: flex; flex-direction: column; align-items: flex-end; padding-right: 10px;">
   <iframe
