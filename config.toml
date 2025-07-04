@@ -21,8 +21,8 @@ taxonomies = [{ name = "tags" }]
 
 theme = "toggle"  
 socials = [
-  { name = "twitter", url = "https://twitter.com/not_matthias", icon = "twitter" },
-  { name = "github", url = "https://github.com/not-matthias/", icon = "github" },
+  { name = "twitter", url = "https://x.com/dawnbreaker88", icon = "twitter" },
+  { name = "github", url = "https://github.com/dawnbreaker88", icon = "github" },
   { name = "linkedin", url = "https://www.linkedin.com/in/vankaprabhath/", icon = "linkedin" },
 ]
 menu = [
@@ -56,3 +56,9 @@ include_description = true
 include_path = true
 include_content = true
 index_format = "elasticlunr_json"
+
+
+
+
+[extra.analytics]
+enabled = false
