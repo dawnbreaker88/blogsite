@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://dawnbreaker88.github.io/blogsite/sitemap.xml

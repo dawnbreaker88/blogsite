@@ -1,0 +1,1 @@
+:root.dark{--text-0: #fff;--text-1: #bbb;--bg-0: #000;--bg-1: lighten($bg-0, 5%);--bg-2: lighten($bg-0, 10%);--primary-color: #00ff00;--border-color: #222222;--hover-color: #000000}:root.dark .social>img{filter:invert(1)}:root.dark h1,:root.dark h2,:root.dark h3,:root.dark h4,:root.dark h5,:root.dark h6{color:lime !important}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://dawnbreaker88.github.io/blogsite/</loc>
+    </url>
+    <url>
+        <loc>https://dawnbreaker88.github.io/blogsite/about/</loc>
+    </url>
+    <url>
+        <loc>https://dawnbreaker88.github.io/blogsite/posts/</loc>
+    </url>
+    <url>
+        <loc>https://dawnbreaker88.github.io/blogsite/posts/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://dawnbreaker88.github.io/blogsite/posts/turing/</loc>
+        <lastmod>2022-07-03</lastmod>
+    </url>
+    <url>
+        <loc>https://dawnbreaker88.github.io/blogsite/projects/</loc>
+    </url>
+    <url>
+        <loc>https://dawnbreaker88.github.io/blogsite/projects/project-1/</loc>
+    </url>
+    <url>
+        <loc>https://dawnbreaker88.github.io/blogsite/tags/</loc>
+    </url>
+    <url>
+        <loc>https://dawnbreaker88.github.io/blogsite/tags/basics/</loc>
+    </url>
+    <url>
+        <loc>https://dawnbreaker88.github.io/blogsite/tags/computation/</loc>
+    </url>
+</urlset>
